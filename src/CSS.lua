@@ -20,6 +20,8 @@ currently supported colors:
 	red
 	green
 	blue
+	orange
+	yellow
 	
 currently supported instructions:
 	margin: <int>;
