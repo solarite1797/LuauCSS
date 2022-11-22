@@ -1,4 +1,5 @@
-local CSS = require(game:GetService("ReplicatedStorage").CSS)
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local CSS = require(ReplicatedStorage.CSS)
 
 local code = {
   [[
