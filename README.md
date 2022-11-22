@@ -30,6 +30,10 @@ currently supported colors:
   
 	blue
 	
+	orange
+	
+	yellow
+	
 currently supported instructions:
 
 	margin: <int>;
