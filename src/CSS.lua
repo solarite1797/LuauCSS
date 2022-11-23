@@ -20,6 +20,9 @@ currently supported colors:
 	red
 	green
 	blue
+	orange
+	yellow
+	purple
 	
 currently supported instructions:
 	margin: <int>;
@@ -38,7 +41,10 @@ m.Execute = function(codes,target)
 		["white"] = Color3.fromRGB(255,255,255),
 		["red"] = Color3.fromRGB(255,0,0),
 		["green"] = Color3.fromRGB(0,255,0),
-		["blue"] = Color3.fromRGB(0,0,255)
+		["blue"] = Color3.fromRGB(0,0,255),
+		["orange"] = Color3.fromRGB(255,95,31),
+		["yellow"] = Color3.fromRGB(255,234,0),
+		["purple"] = Color3.fromRGB(160,32,240)
 	}
 
 	local godtable = {
