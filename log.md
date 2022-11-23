@@ -3,6 +3,14 @@ Merry christmas (idk i lost track of dates) if you're reading this :)
 
 **Disclaimer: Development was started before I started tracking devlogs.**
 
+# 11/22/22
+
+Pull request by solarite1798 to Main:
+
+* Added two new colors:
+* *  orange
+* *  yellow
+
 # 12/21/21
 
 * Added *3* new commands:
