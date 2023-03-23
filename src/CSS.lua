@@ -33,7 +33,7 @@ currently supported instructions:
 
 local m = {}
 
-m.Execute = function(codes,target)
+function m.Execute(codes,target)
 	
 
 	local colors = {
